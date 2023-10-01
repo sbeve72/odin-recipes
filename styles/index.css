@@ -1,0 +1,14 @@
+h1 {
+	font-size: 48px;
+	font-weight: 1000;
+	color: #1b1c2b;
+
+}
+
+* {
+	font-family: Roboto, sans-serif;
+}
+
+li {
+	margin: 24px;
+}
